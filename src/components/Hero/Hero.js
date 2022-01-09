@@ -8,10 +8,10 @@ const Hero = () => (
   <Section row nopadding>
     <LeftSection>
       <SectionTitle main center>
-        Hello, I am <br />Luke
+        Hello,<br /> I am Luke
       </SectionTitle>
       <SectionText>
-        I am a self taught full stack developer mainly using JavaScript
+        I am a self taught full stack developer focusing on JavaScript
       </SectionText>
       <Button onClick={() => window.location = 'https://github.com/InfinityBeond1/InfinityBeond1'}>
         Learn More
