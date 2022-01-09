@@ -13,7 +13,7 @@ const Hero = () => (
       <SectionText>
         I am a self taught full stack developer focusing on JavaScript
       </SectionText>
-      <Button onClick={() => window.location = 'https://github.com/InfinityBeond1/InfinityBeond1'}>
+      <Button onClick={() => window.location = 'https://github.com/Infinitybeond1/Infinitybeond1'}>
         Learn More
       </Button>
     </LeftSection>
