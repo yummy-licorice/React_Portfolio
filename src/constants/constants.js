@@ -42,5 +42,5 @@ export const TimeLineData = [
   { year: 2019, text: 'Learned NodeJs', },
   { year: 2020, text: 'Created a Discord Bot', },
   { year: 2021, text: 'Learn ReactJs and NextJs', },
-  { year: 2022, text: 'Started making beutiful websites with react', },
+  { year: 2022, text: 'Started making beutiful websites with React', },
 ];
